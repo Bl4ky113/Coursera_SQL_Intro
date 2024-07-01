@@ -9,6 +9,7 @@ Sessions:
 - 06/16/24
 - 06/29/24
 - 06/30/24
+- 07/01/24
 
 ## Welcome and install
 
@@ -71,4 +72,7 @@ The pk is the base of relational dbs. Here are some recomendations.
 - Always use non-repeatable data like autoincremented numbers or whatever they have at non-sql dbs.
 - Try to have a logical pk, which could work like a 'logical' in some sence as an id, but could change, vary or might even repeat.
 
+## Relational dbs many : many
+Just the normal stuff. That we have to create multiple tables for many : many relations.
 
+and that's it. That was the course. Dissapointing.
