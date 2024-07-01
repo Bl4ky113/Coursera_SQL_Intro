@@ -2,7 +2,7 @@
 # University of Michigan
 
 Start: 06/02/24
-End: 
+End: 07/01/24
 
 Sessions:
 - 06/02/24
